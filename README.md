@@ -418,18 +418,6 @@ kattappa/
 
 ---
 
-## 🔗 Integration with Existing Tools
-
-| Tool | Integration |
-|------|-------------|
-| **HardenCheck** | Defense module validation, hardening verification |
-| **BlueSploit** | BLE attack module sharing, protocol handlers |
-| **FirmX** | Firmware analysis pipeline, binary extraction |
-| **BTSnoop Analyzer** | Traffic analysis, protocol reverse engineering |
-| **HARDAX** | Security audit integration, compliance checking |
-
----
-
 ## 📊 Success Metrics
 
 | Metric | Target |
@@ -463,31 +451,6 @@ kattappa/
 
 ---
 
-## 🏁 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/iotsrg/kattappa.git
-cd kattappa
-
-# Setup virtual environment
-python -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Initialize the framework
-python -m kattappa init
-
-# Start the lab environment
-docker-compose up -d
-
-# Launch CLI
-kattappa --help
-```
-
----
 
 <div align="center">
 
