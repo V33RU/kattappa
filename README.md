@@ -11,7 +11,7 @@
     ╔═══════════════════════════════════════════════════════════════════╗
     ║      "The One Who Knows All Secrets of the Connected Kingdom"     ║
     ║                                                                   ║
-    ║         🔓 IoT Backdoor Research & Defense Laboratory 🔓          ║
+    ║         🔓 IoT Backdoor Research & Defense Laboratory 🔓         ║
     ╚═══════════════════════════════════════════════════════════════════╝
     
          ⚔️  Build to Break  →  Break to Understand  →  Understand to Defend  ⚔️
@@ -47,26 +47,26 @@
 │                        KATTAPPA FRAMEWORK                               │
 ├─────────────────────────────────────────────────────────────────────────┤
 │                                                                         │
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐                 │
-│  │   IMPLANT   │    │   CHANNEL   │    │  COMMAND &  │                 │
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐                  │
+│  │   IMPLANT   │    │   CHANNEL   │    │  COMMAND &  │                  │
 │  │  GENERATOR  │───▶│   MANAGER   │───▶│   CONTROL   │                 │
-│  │   (Build)   │    │  (Comms)    │    │    (C2)     │                 │
-│  └─────────────┘    └─────────────┘    └─────────────┘                 │
+│  │   (Build)   │    │  (Comms)    │    │    (C2)     │                  │
+│  └─────────────┘    └─────────────┘    └─────────────┘                  │
 │         │                  │                  │                         │
 │         ▼                  ▼                  ▼                         │
-│  ┌─────────────────────────────────────────────────────┐               │
-│  │              TARGET DEVICE CATEGORIES               │               │
-│  ├─────────────┬─────────────┬─────────────┬──────────┤               │
-│  │  Firmware   │  BLE/BT     │   Wi-Fi     │  RTOS    │               │
-│  │  Implants   │  Backdoors  │  Implants   │  Hooks   │               │
-│  └─────────────┴─────────────┴─────────────┴──────────┘               │
+│  ┌─────────────────────────────────────────────────────┐                │
+│  │              TARGET DEVICE CATEGORIES               │                │
+│  ├─────────────┬─────────────┬─────────────┬──────────┤                 │
+│  │  Firmware   │  BLE/BT     │   Wi-Fi     │  RTOS    │                 │
+│  │  Implants   │  Backdoors  │  Implants   │  Hooks   │                 │
+│  └─────────────┴─────────────┴─────────────┴──────────┘                 │
 │                                                                         │
-│  ┌─────────────────────────────────────────────────────┐               │
-│  │                  ANALYSIS SUITE                     │               │
-│  ├─────────────┬─────────────┬─────────────┬──────────┤               │
-│  │  Detection  │  Forensics  │  Signature  │ Defense  │               │
-│  │   Engine    │   Module    │  Generator  │ Trainer  │               │
-│  └─────────────┴─────────────┴─────────────┴──────────┘               │
+│  ┌─────────────────────────────────────────────────────┐                │
+│  │                  ANALYSIS SUITE                     │                │
+│  ├─────────────┬─────────────┬─────────────┬──────────┤                 │
+│  │  Detection  │  Forensics  │  Signature  │ Defense  │                 │
+│  │   Engine    │   Module    │  Generator  │ Trainer  │                 │
+│  └─────────────┴─────────────┴─────────────┴──────────┘                 │
 │                                                                         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
@@ -304,28 +304,28 @@ kattappa/
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    ⚖️ RESPONSIBLE USE POLICY ⚖️                  │
+│                    ⚖️ RESPONSIBLE USE POLICY ⚖️                │
 ├─────────────────────────────────────────────────────────────────┤
 │                                                                 │
-│  ✅ AUTHORIZED USES:                                            │
-│     • Security research in controlled lab environments         │
-│     • Authorized penetration testing with written consent      │
-│     • Educational purposes and training                        │
-│     • Developing defensive countermeasures                     │
-│     • CTF competitions and security challenges                 │
+│  ✅ AUTHORIZED USES:                                           │
+│     • Security research in controlled lab environments          │
+│     • Authorized penetration testing with written consent       │
+│     • Educational purposes and training                         │
+│     • Developing defensive countermeasures                      │
+│     • CTF competitions and security challenges                  │
 │                                                                 │
 │  ❌ PROHIBITED USES:                                            │
-│     • Unauthorized access to any device or network             │
-│     • Malicious attacks against production systems             │
-│     • Any illegal activities                                   │
-│     • Distribution of weaponized variants                      │
-│     • Use without explicit authorization                       │
+│     • Unauthorized access to any device or network              │
+│     • Malicious attacks against production systems              │
+│     • Any illegal activities                                    │
+│     • Distribution of weaponized variants                       │
+│     • Use without explicit authorization                        │
 │                                                                 │
 │  📋 REQUIREMENTS:                                               │
-│     • Maintain detailed operation logs                         │
-│     • Obtain written authorization before any testing          │
-│     • Report vulnerabilities through responsible disclosure    │
-│     • Comply with all applicable laws and regulations          │
+│     • Maintain detailed operation logs                          │
+│     • Obtain written authorization before any testing           │
+│     • Report vulnerabilities through responsible disclosure     │
+│     • Comply with all applicable laws and regulations           │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
